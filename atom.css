@@ -1,0 +1,21 @@
+*,
+html {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body {
+    min-height: 100vh;
+}
+span {
+
+    color: rgb(163, 163, 163);
+}
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+i {
+    color: black;
+}
